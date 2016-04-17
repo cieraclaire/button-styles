@@ -44,7 +44,7 @@ nav ul li:nth-child(3n+9) {
   font-size: 1.25rem;
   background-color: #fff;
   color: #000;
-  border-color: #fff;
+  border-color: #000;
 }
 
 .btn-warning {
